@@ -1,0 +1,5 @@
+main: me.oska.gw.GoogleWhitelist
+name: GoogleWhitelist
+version: ${project.version}
+author: Oska
+description: whitelisting hook with google forms and spreadsheets

@@ -1,0 +1,22 @@
+config:
+  # your google spreadsheet's csv download link (CSV file)
+  url: 'https://goo.gl/nZpkXM'
+
+  seperator: ','
+
+  # which column is the player's name
+  column: 2
+
+  # where should file store locally for faster access when startup
+  file_locate: 'plugins/GoogleWhitelist/whitelist.csv'
+
+  # is it enable auto retrieve data from spreadsheet
+  auto_update: true
+
+  # how long auto update should run? ( in minutes )
+  update_timer: 5
+
+message:
+
+  # when player no whitelist
+  no_whitelist: '%player% has no whitelisted'

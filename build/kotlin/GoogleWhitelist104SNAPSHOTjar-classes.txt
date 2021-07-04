@@ -1,0 +1,1 @@
+D:\repository\minecraft\GoogleWhitelist\build\classes\kotlin\main\me\oska\gw\GoogleWhitelist$Companion.class;D:\repository\minecraft\GoogleWhitelist\build\classes\kotlin\main\me\oska\gw\GoogleWhitelist.class;D:\repository\minecraft\GoogleWhitelist\build\classes\kotlin\main\me\oska\gw\PlayerListener.class
